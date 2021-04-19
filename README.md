@@ -1,3 +1,17 @@
 Create a simple calculator which can perform basic arithmetic operations like addition, subtraction, multiplication or division depending upon the user input.
 
 User choose the desired operation. Options 1, 2, 3 and 4 are valid.
+
+
+
+# var1 is in the global namespace
+var1 = 5
+def some_func():
+ 
+    # var2 is in the local namespace
+    var2 = 6
+    def some_inner_func():
+ 
+        # var3 is in the nested local
+        # namespace
+        var3 = 7
