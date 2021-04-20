@@ -12,6 +12,4 @@ def some_func():
     var2 = 6
     def some_inner_func():
  
-        # var3 is in the nested local
-        # namespace
-        var3 = 7
+        
