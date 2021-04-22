@@ -6,7 +6,6 @@ User choose the desired operation. Options 1, 2, 3 and 4 are valid.
 
 # var1 is in the global namespace
 var1 = 5
-def some_func():
 
  
         
