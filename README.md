@@ -8,4 +8,3 @@ So as a summary, why you need both the header file and the namespace to run a si
 
 A function in Python is an aggregation of related statements designed to perform a computational, logical, or evaluative task. The idea is to put some commonly or repeatedly done task together and make a function so that instead of writing the same code again and again for different inputs, we can call the function to reuse code contained in it over and over again. 
 
-Functions can be both built-in or user-defined. It helps the program to be concise, non-repetitive, and organized.
